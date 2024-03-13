@@ -1,0 +1,19 @@
+
+.btn{
+   background-color: rgb(141, 225, 179);
+}
+.icon-username {
+   padding-left: 35px; /* Adjust as needed */
+   
+   background-repeat: no-repeat;
+   background-position: 10px center; /* Adjust as needed */
+   background-size: 20px; /* Adjust as needed */
+}
+.icon-input{
+   padding-left: 35px; /* Adjust as needed */
+   
+   background-repeat: no-repeat;
+   background-position: 10px center; /* Adjust as needed */
+   background-size: 20px; /* Adjust as needed */
+}
+
